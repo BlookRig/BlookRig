@@ -1,0 +1,8 @@
+{
+  "update": "https://github.com/BlookRig/BlookRig.git",
+  "version": "1.0.0",
+  "bnode": "local",
+  "threads": "1",
+  "record": true,
+  "autoraid": true
+}
