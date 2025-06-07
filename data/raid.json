@@ -1,0 +1,8 @@
+{
+  "goldquest": "/raid/goldquest.js",
+  "crypto": "/raid/crypto.js",
+  "brawl": "/raid/brawl.js",
+  "cafe": "/raid/cafe.js",
+  "doom": "/raid/doom.js",
+  "factory": "/raid/factory.js"
+}
