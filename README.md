@@ -54,4 +54,6 @@ You only need to change this:
 
 `threads` - How many resources the miner can use, set it to `1` for 1 thread, or `max` to use all threads.
 
-`record` - Records your C/s (Codes per Second) to a public record
+`record` - Records your C/s (Codes per Second) to a public record (for analytics purposes). Set to `false` to not record.
+
+`autoraid` - Whether you want the program to automatically raid all active codes or to save it locally, if not, put it as `false`.
