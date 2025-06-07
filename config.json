@@ -1,5 +1,6 @@
 {
   "update": "https://github.com/BlookRig/BlookRig.git",
+  "autoupdate": true,
   "version": "1.0.0",
   "bnode": "local",
   "threads": "1",
