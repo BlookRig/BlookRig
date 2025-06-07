@@ -4,5 +4,9 @@
   "brawl": "/raid/brawl.js",
   "cafe": "/raid/cafe.js",
   "doom": "/raid/doom.js",
-  "factory": "/raid/factory.js"
+  "factory": "/raid/factory.js",
+  "dino": "/raid/dino.js",
+  "race": "/raid/race.js",
+  "classic": "/raid/classic.js",
+  "
 }
