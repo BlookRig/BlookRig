@@ -51,6 +51,8 @@ In BlookRig, there is a file called `config.json`. This file contains the config
 
 You only need to change this:
 
+`autoupdate` - Whether you want the program to automatically update itself to the latest version when ran. Set it to `false` if you don't want that.
+
 `bnode` - Provide a valid Blooket BSID Node here, or put `local` to automatically set it as your own BSID (For local BSID, you have to be logged into Blooket).
 
 `threads` - How many resources the miner can use, set it to `1` for 1 thread, or `max` to use all threads.
