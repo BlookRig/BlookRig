@@ -23,7 +23,8 @@ BlookRig is a program that actively searches for active Blooket game codes and a
 
 ### Local Hosting
 
-> :warning: **Please Remember:**: Make sure you have <a href="https://git-scm.com">Git</a> and <a href="https://nodejs.org">Node.JS</a> installed on your computer before downloading.
+> [!IMPORTANT]
+> **Please Remember:** Make sure you have <a href="https://git-scm.com">Git</a> and <a href="https://nodejs.org">Node.JS</a> installed on your computer before downloading.
 
 Open Git Bash, or any terminal on your OS and run this:
 
